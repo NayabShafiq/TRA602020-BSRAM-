@@ -1,0 +1,15 @@
+--- Sensor Reading 1 ---
+Sensor ID: 1
+Temperature: 36.5
+Humidity: 72.3
+Timestamp: 2024-01-15 08:00
+--- Sensor Reading 2 ---
+Sensor ID: 2
+Temperature: 38.1
+Humidity: 68.9
+Timestamp: 2024-01-15 08:05
+--- Sensor Reading 3 ---
+Sensor ID: 3
+Temperature: 35.7
+Humidity: 75.1
+Timestamp: 2024-01-15 08:10
