@@ -1,0 +1,16 @@
+1-Student record:
+
+Student name: Ali
+Roll No: 1
+Section: A
+CGPA: 4
+
+2-Student record:
+
+Student name: Umer
+Roll No: 2
+Section: A
+CGPA: 3
+
+
+	===2 students===
